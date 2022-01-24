@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Conor-Welch
-- 👀 I’m interested in Front End Design and UX.
-- 🌱 I’m currently learning Java, JavaScript, HTML\CSS, DM/SQL,
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested full stack development with a UX/HCI mindset.
+- 🌱 I’m currently learning/or have learnt Java, JavaScript, HTML\CSS, PLSQL, Swift
+- 💞️ I’m looking to collaborate on ...]]]]]
 - 📫 How to reach me ...
 
 <!---

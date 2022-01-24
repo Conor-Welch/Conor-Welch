@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Conor-Welch
 - 👀 I’m interested full stack development with a UX/HCI mindset.
 - 🌱 I’m currently learning/or have learnt Java, JavaScript, HTML\CSS, PLSQL, Swift
-- 💞️ I’m looking to collaborate on ...]]]]]
-- 📫 How to reach me ...
+
 
 <!---
 Conor-Welch/Conor-Welch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
